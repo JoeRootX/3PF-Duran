@@ -14,7 +14,7 @@ import { MatSelectModule } from '@angular/material/select';
 import { AbmCursosComponent } from './abm-cursos/abm-cursos.component';
 import { CursosComponent } from './cursos.component';
 import {MatDatepickerModule} from '@angular/material/datepicker';
-import { DetallesCursosComponent } from './detalles-cursos/detalles-cursos/detalles-cursos.component';
+import { DetallesCursosComponent } from './detalles-cursos/detalles-cursos.component';
 import {MatCardModule} from '@angular/material/card';
 import { RouterModule } from '@angular/router';
 
